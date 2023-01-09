@@ -6,14 +6,14 @@
 - 🤔 I’m looking for help with Advanced Machine Learning
 - 📫 How to reach me: Email, LinkedIn, Tableau Public, PowerBI Community
 - 😄 Pronouns: He/Him
+- 💬 Ask me about my projects
+- ⚡ Fun fact: I got the username from an instrumental metal band's song
 
 <!--
 **March-To-The-Sea/March-To-The-Sea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
 -->
 
 <h3 align="left">Languages and Tools:</h3>
