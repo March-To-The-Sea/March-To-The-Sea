@@ -5,6 +5,12 @@
   <li><a href="about.asp">About</a></li>
 </ul>
 
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
 ### Hi there 👋
 
 - 🌱 I’m currently learning Data Science/Analytics and Machine Learning
