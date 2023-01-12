@@ -1,11 +1,7 @@
-.
-+-- sub-directory
-|   +-- index.md    (title: Suby the Sub)
-|   +-- page2.md    (title: Suby the Second)
-|   +-- three.md    (title: Suby the Third)
-+-- index.md        (title: Home)
 
-### Hi there 👋
+---
+
+# Hi there 👋
 
 - 🌱 I’m currently learning Data Science/Analytics and Machine Learning
 - 🔭 I’m currently working on Data Gathering form APIs, Database Management, Machine Learning Visualization, and Dashboards
