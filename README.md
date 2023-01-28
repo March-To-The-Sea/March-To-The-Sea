@@ -2,7 +2,22 @@
   
   </a>  
   <a href="https://linkedin.com/in/lance-randall-gamier" target="_blank">
-  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/>
+  </a>
+  
+  </a>  
+  <a href="https://www.kaggle.com/lancerandallgamier" target="_blank">
+  <img src=https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white/>
+  </a>
+  
+  </a>  
+  <a href="https://public.tableau.com/app/profile/lance.gamier" target="_blank">
+  <img src=https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white/>
+  </a>
+  
+  </a>  
+  <a href="https://community.powerbi.com/t5/forums/recentpostspage/post-type/message/category-id/PBI_Comm_Galleries/user-id/488108" target="_blank">
+  <img src=https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white/>
   </a>
 
 </div> 
