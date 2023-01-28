@@ -97,7 +97,7 @@
 
   ### Big Data Frameworks
   <div align="center">  
-   <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg" width="40" height="40"/> </a>
+   <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/H/hadoop-logo-D36814CB84-seeklogo.com.png" width="40" height="40"/> </a>
    <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="40" height="40"/> </a>
   </div>
   </td>
