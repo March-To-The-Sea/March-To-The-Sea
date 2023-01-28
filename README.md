@@ -19,6 +19,11 @@
   <a href="https://community.powerbi.com/t5/forums/recentpostspage/post-type/message/category-id/PBI_Comm_Galleries/user-id/488108" target="_blank">
   <img src=https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white/>
   </a>
+  
+  </a>  
+  <a href="https://medium.com/@lance_gamier" target="_blank">
+  <img src=https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white/>
+  </a>
 
 </div> 
 
@@ -40,31 +45,39 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> </p>
 
-<table><tr><td valign="top" width="33%">
+<table>
+  
+  <tr>
+    
+  <td valign="top" width="33%">
 
-### Data Science/Analysis Programming Languages  
-<div align="center">  
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.r-project.org" target="_blank" rel="noreferrer"> <img src="https://www.r-project.org/logo/Rlogo.svg" alt="r" width="40" height="40"/> </a>
-</div>
+  ### Data Science/Analysis Programming Languages  
+  <div align="center">  
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+    <a href="https://www.r-project.org" target="_blank" rel="noreferrer"> <img src="https://www.r-project.org/logo/Rlogo.svg" alt="r" width="40" height="40"/> </a>
+  </div>
 
-</td><td valign="top" width="33%">
+  </td><td valign="top" width="33%">
 
 
-### SQL Databases
-<div align="center">  
- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
-</div>
+  ### SQL Databases
+  <div align="center">  
+   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
+  </div>
 
-</td><td valign="top" width="33%">
+  </td><td valign="top" width="33%">
 
-### Data Visualization Packages/Software  
-<div align="center">  
- <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
-</div>
-</td></tr></table>  
+  ### Data Visualization Packages/Software  
+  <div align="center">  
+   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
+  </div>
+  </td>
+    
+  </tr>
+  
+</table>  
 
 Data Frame Packages:
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
@@ -82,6 +95,94 @@ Currently Learning:
 
 Data Visualization Projects
 
+<table>
+  
+  <tr>
+    <td valign="top" width="20%">Project 1</td>
+    <td valign="top" width="20%">Project 2</td>
+    <td valign="top" width="20%">Project 3</td>
+    <td valign="top" width="20%">Project 4</td>
+    <td valign="top" width="20%">Project 5</td>
+  </tr>
+  
+  <tr>
+    <td valign="top" width="20%">Project 1</td>
+    <td valign="top" width="20%">Project 2</td>
+    <td valign="top" width="20%">Project 3</td>
+    <td valign="top" width="20%">Project 4</td>
+    <td valign="top" width="20%">Project 5</td>
+  </tr>
+  
+  <tr>
+    <td valign="top" width="20%">Project 1</td>
+    <td valign="top" width="20%">Project 2</td>
+    <td valign="top" width="20%">Project 3</td>
+    <td valign="top" width="20%">Project 4</td>
+    <td valign="top" width="20%">Project 5</td>
+  </tr>
+  
+  <tr>
+    <td valign="top" width="20%">Project 1</td>
+    <td valign="top" width="20%">Project 2</td>
+    <td valign="top" width="20%">Project 3</td>
+    <td valign="top" width="20%">Project 4</td>
+    <td valign="top" width="20%">Project 5</td>
+  </tr>
+  
+  <tr>
+    <td valign="top" width="20%">Project 1</td>
+    <td valign="top" width="20%">Project 2</td>
+    <td valign="top" width="20%">Project 3</td>
+    <td valign="top" width="20%">Project 4</td>
+    <td valign="top" width="20%">Project 5</td>
+  </tr>
+  
+</table>
+
 ---
 
 Machine Learning Projects
+  
+<table>
+  
+  <tr>
+    <td valign="top" width="20%">Project 1</td>
+    <td valign="top" width="20%">Project 2</td>
+    <td valign="top" width="20%">Project 3</td>
+    <td valign="top" width="20%">Project 4</td>
+    <td valign="top" width="20%">Project 5</td>
+  </tr>
+  
+  <tr>
+    <td valign="top" width="20%">Project 1</td>
+    <td valign="top" width="20%">Project 2</td>
+    <td valign="top" width="20%">Project 3</td>
+    <td valign="top" width="20%">Project 4</td>
+    <td valign="top" width="20%">Project 5</td>
+  </tr>
+  
+  <tr>
+    <td valign="top" width="20%">Project 1</td>
+    <td valign="top" width="20%">Project 2</td>
+    <td valign="top" width="20%">Project 3</td>
+    <td valign="top" width="20%">Project 4</td>
+    <td valign="top" width="20%">Project 5</td>
+  </tr>
+  
+  <tr>
+    <td valign="top" width="20%">Project 1</td>
+    <td valign="top" width="20%">Project 2</td>
+    <td valign="top" width="20%">Project 3</td>
+    <td valign="top" width="20%">Project 4</td>
+    <td valign="top" width="20%">Project 5</td>
+  </tr>
+  
+  <tr>
+    <td valign="top" width="20%">Project 1</td>
+    <td valign="top" width="20%">Project 2</td>
+    <td valign="top" width="20%">Project 3</td>
+    <td valign="top" width="20%">Project 4</td>
+    <td valign="top" width="20%">Project 5</td>
+  </tr>
+  
+</table>
